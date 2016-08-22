@@ -85,7 +85,7 @@ knitr::include_graphics("gifs/links.gif")
 
 The GIF below shows the process of creating both ordered and unordered lists.
 
-```{r lists, echo=FALSE, fig.cap="Links to webpages"}
+```{r lists, echo=FALSE, fig.cap="Ordered and unordered lists"}
 knitr::include_graphics("gifs/lists.gif")
 ```
 
