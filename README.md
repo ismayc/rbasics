@@ -1,2 +1,1 @@
-# rbasics
-Generating files for bookdown documentation on using R, RStudio, and RMarkdown at <http://ismayc.github.io/rbasics-book>
+With the discovery of publishing to [the `/docs` folder on the master branch](https://github.com/rstudio/bookdown/pull/195) instead of going through the hassle of having two repositories for the source and the book (as I did before) or the lack of documentation on getting bookdown publishing to work with travis, this repository is no longer needed since all generating files have been moved to <https://github.com/ismayc/rbasics-book>.
